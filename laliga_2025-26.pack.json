@@ -1,0 +1,2665 @@
+{
+  "name": "LaLiga 2025-26",
+  "season": "2025-26",
+  "competition": {
+    "name": "LaLiga",
+    "country": "Spain"
+  },
+  "teams": [
+    {
+      "name": "Real Madrid",
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Andriy Lunin",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Fran González",
+          "number": 26,
+          "position": "POR"
+        },
+        {
+          "name": "Dean Huijsen",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Éder Militão",
+          "number": 3,
+          "position": "DFC"
+        },
+        {
+          "name": "Raúl Asencio",
+          "number": 17,
+          "position": "DFC"
+        },
+        {
+          "name": "Antonio Rüdiger",
+          "number": 22,
+          "position": "DFC"
+        },
+        {
+          "name": "David Alaba",
+          "number": 4,
+          "position": "DFC"
+        },
+        {
+          "name": "Álvaro Carreras",
+          "number": 18,
+          "position": "LI"
+        },
+        {
+          "name": "Fran García",
+          "number": 20,
+          "position": "LI"
+        },
+        {
+          "name": "Ferland Mendy",
+          "number": 23,
+          "position": "LI"
+        },
+        {
+          "name": "Trent Alexander-Arnold",
+          "number": 12,
+          "position": "LD"
+        },
+        {
+          "name": "Daniel Carvajal",
+          "number": 2,
+          "position": "LD"
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "number": 14,
+          "position": "MCD"
+        },
+        {
+          "name": "Federico Valverde",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Eduardo Camavinga",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Ceballos",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Jude Bellingham",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Arda Güler",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Vinicius Junior",
+          "number": 7,
+          "position": "EI"
+        },
+        {
+          "name": "Rodrygo",
+          "number": 11,
+          "position": "ED"
+        },
+        {
+          "name": "Franco Mastantuono",
+          "number": 30,
+          "position": "ED"
+        },
+        {
+          "name": "Brahim Díaz",
+          "number": 21,
+          "position": "ED"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "number": 10,
+          "position": "DC"
+        },
+        {
+          "name": "Gonzalo García",
+          "number": 16,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "FC Barcelona",
+      "players": [
+        {
+          "name": "Joan García",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Wojciech Szczęsny",
+          "number": 25,
+          "position": "POR"
+        },
+        {
+          "name": "Diego Kochen",
+          "number": 31,
+          "position": "POR"
+        },
+        {
+          "name": "Pau Cubarsí",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Eric García",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Ronald Araujo",
+          "number": 4,
+          "position": "DFC"
+        },
+        {
+          "name": "Andreas Christensen",
+          "number": 15,
+          "position": "DFC"
+        },
+        {
+          "name": "Alejandro Balde",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Gerard Martín",
+          "number": 18,
+          "position": "LI"
+        },
+        {
+          "name": "Jules Koundé",
+          "number": 23,
+          "position": "LD"
+        },
+        {
+          "name": "João Cancelo",
+          "number": 2,
+          "position": "LD"
+        },
+        {
+          "name": "Marc Casadó",
+          "number": 17,
+          "position": "MCD"
+        },
+        {
+          "name": "Marc Bernal",
+          "number": 22,
+          "position": "MCD"
+        },
+        {
+          "name": "Pedri",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Frenkie de Jong",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Gavi",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Fermín López",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Olmo",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Raphinha",
+          "number": 11,
+          "position": "EI"
+        },
+        {
+          "name": "Marcus Rashford",
+          "number": 14,
+          "position": "EI"
+        },
+        {
+          "name": "Lamine Yamal",
+          "number": 10,
+          "position": "ED"
+        },
+        {
+          "name": "Roony Bardghji",
+          "number": 19,
+          "position": "ED"
+        },
+        {
+          "name": "Ferran Torres",
+          "number": 7,
+          "position": "DC"
+        },
+        {
+          "name": "Robert Lewandowski",
+          "number": 9,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Atlético de Madrid",
+      "players": [
+        {
+          "name": "Jan Oblak",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Juan Musso",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Dávid Hancko",
+          "number": 17,
+          "position": "DFC"
+        },
+        {
+          "name": "Robin Le Normand",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Marc Pubill",
+          "number": 18,
+          "position": "DFC"
+        },
+        {
+          "name": "José María Giménez",
+          "number": 2,
+          "position": "DFC"
+        },
+        {
+          "name": "Clément Lenglet",
+          "number": 15,
+          "position": "DFC"
+        },
+        {
+          "name": "Matteo Ruggeri",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Marcos Llorente",
+          "number": 14,
+          "position": "LD"
+        },
+        {
+          "name": "Nahuel Molina",
+          "number": 16,
+          "position": "LD"
+        },
+        {
+          "name": "Johnny Cardoso",
+          "number": 5,
+          "position": "MCD"
+        },
+        {
+          "name": "Pablo Barrios",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Rodrigo Mendoza",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Obed Vargas",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Koke",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Álex Baena",
+          "number": 10,
+          "position": "EI"
+        },
+        {
+          "name": "Nico González",
+          "number": 23,
+          "position": "EI"
+        },
+        {
+          "name": "Thiago Almada",
+          "number": 11,
+          "position": "EI"
+        },
+        {
+          "name": "Giuliano Simeone",
+          "number": 20,
+          "position": "ED"
+        },
+        {
+          "name": "Ademola Lookman",
+          "number": 22,
+          "position": "MP"
+        },
+        {
+          "name": "Antoine Griezmann",
+          "number": 7,
+          "position": "MP"
+        },
+        {
+          "name": "Julián Alvarez",
+          "number": 19,
+          "position": "DC"
+        },
+        {
+          "name": "Alexander Sørloth",
+          "number": 9,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Athletic Club",
+      "players": [
+        {
+          "name": "Unai Simón",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Álex Padilla",
+          "number": 27,
+          "position": "POR"
+        },
+        {
+          "name": "Dani Vivian",
+          "number": 3,
+          "position": "DFC"
+        },
+        {
+          "name": "Aitor Paredes",
+          "number": 4,
+          "position": "DFC"
+        },
+        {
+          "name": "Aymeric Laporte",
+          "number": 14,
+          "position": "DFC"
+        },
+        {
+          "name": "Yeray Álvarez",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Unai Egiluz",
+          "number": 13,
+          "position": "DFC"
+        },
+        {
+          "name": "Adama Boiro",
+          "number": 19,
+          "position": "LI"
+        },
+        {
+          "name": "Yuri Berchiche",
+          "number": 17,
+          "position": "LI"
+        },
+        {
+          "name": "Jesús Areso",
+          "number": 12,
+          "position": "LD"
+        },
+        {
+          "name": "Andoni Gorosabel",
+          "number": 2,
+          "position": "LD"
+        },
+        {
+          "name": "Iñigo Lekue",
+          "number": 15,
+          "position": "LD"
+        },
+        {
+          "name": "Mikel Vesga",
+          "number": 6,
+          "position": "MCD"
+        },
+        {
+          "name": "Mikel Jauregizar",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Beñat Prados",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Alejandro Rego",
+          "number": 30,
+          "position": "MC"
+        },
+        {
+          "name": "Selton Sánchez",
+          "number": 44,
+          "position": "MC"
+        },
+        {
+          "name": "Iñigo Ruiz de Galarreta",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Oihan Sancet",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Unai Gómez",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Nico Williams",
+          "number": 10,
+          "position": "EI"
+        },
+        {
+          "name": "Álex Berenguer",
+          "number": 7,
+          "position": "EI"
+        },
+        {
+          "name": "Nico Serrano",
+          "number": 22,
+          "position": "EI"
+        },
+        {
+          "name": "Iñaki Williams",
+          "number": 9,
+          "position": "ED"
+        },
+        {
+          "name": "Robert Navarro",
+          "number": 23,
+          "position": "ED"
+        },
+        {
+          "name": "Gorka Guruzeta",
+          "number": 11,
+          "position": "DC"
+        },
+        {
+          "name": "Maroan Sannadi",
+          "number": 21,
+          "position": "DC"
+        },
+        {
+          "name": "Urko Izeta",
+          "number": 25,
+          "position": "DC"
+        },
+        {
+          "name": "Asier Hierro",
+          "number": 31,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Villarreal CF",
+      "players": [
+        {
+          "name": "Luiz Júnior",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Diego Conde",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Arnau Tenas",
+          "number": 25,
+          "position": "POR"
+        },
+        {
+          "name": "Renato Veiga",
+          "number": 12,
+          "position": "DFC"
+        },
+        {
+          "name": "Logan Costa",
+          "number": 2,
+          "position": "DFC"
+        },
+        {
+          "name": "Juan Foyth",
+          "number": 8,
+          "position": "DFC"
+        },
+        {
+          "name": "Rafa Marín",
+          "number": 4,
+          "position": "DFC"
+        },
+        {
+          "name": "Willy Kambwala",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Sergi Cardona",
+          "number": 23,
+          "position": "LI"
+        },
+        {
+          "name": "Alfonso Pedraza",
+          "number": 24,
+          "position": "LI"
+        },
+        {
+          "name": "Santiago Mouriño",
+          "number": 15,
+          "position": "LD"
+        },
+        {
+          "name": "Pau Navarro",
+          "number": 6,
+          "position": "LD"
+        },
+        {
+          "name": "Alex Freeman",
+          "number": 3,
+          "position": "LD"
+        },
+        {
+          "name": "Thomas Partey",
+          "number": 16,
+          "position": "MCD"
+        },
+        {
+          "name": "Pape Gueye",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Santi Comesaña",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Parejo",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Macià",
+          "number": 37,
+          "position": "MC"
+        },
+        {
+          "name": "Alberto Moleiro",
+          "number": 20,
+          "position": "EI"
+        },
+        {
+          "name": "Alfon González",
+          "number": 11,
+          "position": "EI"
+        },
+        {
+          "name": "Tajon Buchanan",
+          "number": 17,
+          "position": "ED"
+        },
+        {
+          "name": "Nicolas Pépé",
+          "number": 19,
+          "position": "ED"
+        },
+        {
+          "name": "Georges Mikautadze",
+          "number": 9,
+          "position": "DC"
+        },
+        {
+          "name": "Tani Oluwaseyi",
+          "number": 21,
+          "position": "DC"
+        },
+        {
+          "name": "Ayoze Pérez",
+          "number": 22,
+          "position": "DC"
+        },
+        {
+          "name": "Gerard Moreno",
+          "number": 7,
+          "position": "DC"
+        },
+        {
+          "name": "Pau Cabanes",
+          "number": 33,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Real Sociedad",
+      "players": [
+        {
+          "name": "Álex Remiro",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Unai Marrero",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Jon Martín",
+          "number": 31,
+          "position": "DFC"
+        },
+        {
+          "name": "Igor Zubeldia",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Duje Caleta-Car",
+          "number": 16,
+          "position": "DFC"
+        },
+        {
+          "name": "Aritz Elustondo",
+          "number": 6,
+          "position": "DFC"
+        },
+        {
+          "name": "Sergio Gómez",
+          "number": 17,
+          "position": "LI"
+        },
+        {
+          "name": "Aihen Muñoz",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Jon Aramburu",
+          "number": 2,
+          "position": "LD"
+        },
+        {
+          "name": "Álvaro Odriozola",
+          "number": 20,
+          "position": "LD"
+        },
+        {
+          "name": "Jon Gorrotxategi",
+          "number": 4,
+          "position": "MCD"
+        },
+        {
+          "name": "Luka Sucic",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Yangel Herrera",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Beñat Turrientes",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Soler",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Brais Méndez",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Marín",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Arsen Zakharyan",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Ander Barrenetxea",
+          "number": 7,
+          "position": "EI"
+        },
+        {
+          "name": "Gonçalo Guedes",
+          "number": 11,
+          "position": "EI"
+        },
+        {
+          "name": "Wesley",
+          "number": 22,
+          "position": "EI"
+        },
+        {
+          "name": "Takefusa Kubo",
+          "number": 14,
+          "position": "ED"
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "number": 10,
+          "position": "DC"
+        },
+        {
+          "name": "Orri Óskarsson",
+          "number": 9,
+          "position": "DC"
+        },
+        {
+          "name": "Jon Karrikaburu",
+          "number": 19,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Valencia CF",
+      "players": [
+        {
+          "name": "Julen Agirrezabala",
+          "number": 25,
+          "position": "MC"
+        },
+        {
+          "name": "Stole Dimitrievski",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Cristian Rivero",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "César Tárrega",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "José Copete",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Unai Núñez",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Eray Cömert",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "José Gayà",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Jesús Vázquez",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Thierry Correia",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Dimitri Foulquier",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Pepelu",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Guido Rodríguez",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Baptiste Santamaria",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Javi Guerra",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Filip Ugrinic",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "André Almeida",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Largie Ramazani",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Arnaut Danjuma",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Luis Rioja",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Diego López",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Raba",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Hugo Duro",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Lucas Beltrán",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Umar Sadiq",
+          "number": 6,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Girona FC",
+      "players": [
+        {
+          "name": "Marc-André ter Stegen",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Paulo Gazzaniga",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Rubén Blanco",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Vladyslav Krapyvtsov",
+          "number": 25,
+          "position": "MC"
+        },
+        {
+          "name": "Vitor Reis",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Alejandro Francés",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Daley Blind",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "David López",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Álex Moreno",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Arnau Martínez",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Hugo Rincón",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Axel Witsel",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Azzedine Ounahi",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Fran Beltrán",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Donny van de Beek",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Lass Kourouma",
+          "number": 29,
+          "position": "MC"
+        },
+        {
+          "name": "Claudio Echeverri",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Iván Martín",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Thomas Lemar",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Bryan Gil",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Joel Roca",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Viktor Tsygankov",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Vladyslav Vanat",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Abel Ruiz",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Cristhian Stuani",
+          "number": 7,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "RC Celta",
+      "players": [
+        {
+          "name": "Ionuț Radu",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Iván Villar",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Marc Vidal",
+          "number": 25,
+          "position": "MC"
+        },
+        {
+          "name": "Javi Rodríguez",
+          "number": 32,
+          "position": "MC"
+        },
+        {
+          "name": "Carl Starfelt",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Domínguez",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Yoel Lago",
+          "number": 29,
+          "position": "MC"
+        },
+        {
+          "name": "Manu Fernández",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Marcos Alonso",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Joseph Aidoo",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Mihailo Ristic",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Óscar Mingueza",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Sergio Carreira",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Álvaro Núñez",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Javi Rueda",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Ilaix Moriba",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Hugo Sotelo",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Miguel Román",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Matías Vecino",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Fer López",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Williot Swedberg",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Hugo Álvarez",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Franco Cervi",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Jones El-Abdellaoui",
+          "number": 39,
+          "position": "MC"
+        },
+        {
+          "name": "Ferran Jutglà",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Durán",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Borja Iglesias",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Iago Aspas",
+          "number": 10,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Sevilla FC",
+      "players": [
+        {
+          "name": "Odysseas Vlachodimos",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Ørjan Nyland",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Kike Salas",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Fábio Cardoso",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Marcão",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Andrés Castrín",
+          "number": 32,
+          "position": "MC"
+        },
+        {
+          "name": "Tanguy Nianzou",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "César Azpilicueta",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Federico Gattoni",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Gabriel Suazo",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Oso",
+          "number": 36,
+          "position": "MC"
+        },
+        {
+          "name": "Juanlu Sánchez",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "José Ángel Carmona",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Lucien Agoumé",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Batista Mendy",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Nemanja Gudelj",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Djibril Sow",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Joan Jordán",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Manu Bueno",
+          "number": 28,
+          "position": "MC"
+        },
+        {
+          "name": "Rubén Vargas",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Chidera Ejuke",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Adnan Januzaj",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Miguel Ángel Sierra",
+          "number": 29,
+          "position": "MC"
+        },
+        {
+          "name": "Peque Fernández",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Akor Adams",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Isaac Romero",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Neal Maupay",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Alexis Sánchez",
+          "number": 10,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "RCD Espanyol",
+      "players": [
+        {
+          "name": "Marko Dmitrovic",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Ángel Fortuño",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Clemens Riedel",
+          "number": 38,
+          "position": "MC"
+        },
+        {
+          "name": "Fernando Calero",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Miguel Rubio",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Leandro Cabrera",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Romero",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "José Salinas",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Omar El Hilali",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Rubén Sánchez",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Urko González de Zárate",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Charles Pickel",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Pol Lozano",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Edu Expósito",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Ramón Terrats",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Javi Puado",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Pere Milla",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Tyrhys Dolan",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Cyril Ngonge",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Jofre Carreras",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Antoniu Roca",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Roberto Fernández",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Kike García",
+          "number": 19,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Rayo Vallecano",
+      "players": [
+        {
+          "name": "Augusto Batalla",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Cárdenas",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Nobel Mendy",
+          "number": 32,
+          "position": "MC"
+        },
+        {
+          "name": "Abdul Mumin",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Luiz Felipe",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Jozhua Vertrouwd",
+          "number": 33,
+          "position": "MC"
+        },
+        {
+          "name": "Florian Lejeune",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Pep Chavarría",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Alfonso Espino",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Andrei Rațiu",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Iván Balliu",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Gerard Gumbau",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Pedro Díaz",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Unai López",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Óscar Valentín",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Pathé Ciss",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Samu Becerra",
+          "number": 28,
+          "position": "MC"
+        },
+        {
+          "name": "Randy Nteka",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Óscar Trejo",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Martín",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Álvaro García",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Ilias Akhomach",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Jorge de Frutos",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Fran Pérez",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Isi Palazón",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Alemão",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Sergio Camello",
+          "number": 10,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "CA Osasuna",
+      "players": [
+        {
+          "name": "Sergio Herrera",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Aitor Fernández",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Enzo Boyomo",
+          "number": 22,
+          "position": "DFC"
+        },
+        {
+          "name": "Jorge Herrando",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Alejandro Catena",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Abel Bretones",
+          "number": 23,
+          "position": "LI"
+        },
+        {
+          "name": "Javi Galán",
+          "number": 20,
+          "position": "LI"
+        },
+        {
+          "name": "Juan Cruz",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Valentin Rosier",
+          "number": 19,
+          "position": "LD"
+        },
+        {
+          "name": "Iñigo Arguibide",
+          "number": 41,
+          "position": "LD"
+        },
+        {
+          "name": "Lucas Torró",
+          "number": 6,
+          "position": "MCD"
+        },
+        {
+          "name": "Iker Muñoz",
+          "number": 8,
+          "position": "MCD"
+        },
+        {
+          "name": "Jon Moncayola",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Asier Osambela",
+          "number": 29,
+          "position": "MC"
+        },
+        {
+          "name": "Aimar Oroz",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Moi Gómez",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Víctor Muñoz",
+          "number": 21,
+          "position": "EI"
+        },
+        {
+          "name": "Raúl Moro",
+          "number": 15,
+          "position": "EI"
+        },
+        {
+          "name": "Rubén García",
+          "number": 14,
+          "position": "ED"
+        },
+        {
+          "name": "Iker Benito",
+          "number": 2,
+          "position": "ED"
+        },
+        {
+          "name": "Kike Barja",
+          "number": 11,
+          "position": "ED"
+        },
+        {
+          "name": "Raúl García",
+          "number": 9,
+          "position": "DC"
+        },
+        {
+          "name": "Ante Budimir",
+          "number": 17,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Elche CF",
+      "players": [
+        {
+          "name": "Iñaki Peña",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Alejandro Iturbe",
+          "number": 45,
+          "position": "MC"
+        },
+        {
+          "name": "Matías Dituro",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "David Affengruber",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Víctor Chust",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "John Donald",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Pedro Bigas",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Adrià Pedrosa",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Léo Pétrot",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Héctor Fort",
+          "number": 39,
+          "position": "MC"
+        },
+        {
+          "name": "Buba Sangaré",
+          "number": 42,
+          "position": "MC"
+        },
+        {
+          "name": "Federico Redondo",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Marc Aguado",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Martim Neto",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Aleix Febas",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Gonzalo Villar",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Germán Valera",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Lucas Cepeda",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Tete Morente",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Yago Santiago",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Grady Diangana",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Josan",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Adam Boayar",
+          "number": 32,
+          "position": "MC"
+        },
+        {
+          "name": "Rafa Mir",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Álvaro Rodríguez",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "André Silva",
+          "number": 9,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Levante UD",
+      "players": [
+        {
+          "name": "Mathew Ryan",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Campos",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Matías Moreno",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Alan Matturro",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Adrián Dela",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Unai Elgezabal",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Manu Sánchez",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Diego Pampín",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Jeremy Toljan",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Víctor García",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Ugo Raghouber",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Oriol Rey",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Kervin Arriaga",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Martínez",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Unai Vencedor",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Jon Ander Olasagasti",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Álvarez",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Roger Brugué",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Paco Cortés",
+          "number": 27,
+          "position": "MC"
+        },
+        {
+          "name": "Tay Abed",
+          "number": 55,
+          "position": "MC"
+        },
+        {
+          "name": "Kareem Tunde",
+          "number": 26,
+          "position": "MC"
+        },
+        {
+          "name": "Iker Losada",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Karl Etta Eyong",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Iván Romero",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Carlos Espí",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "José Luis Morales",
+          "number": 11,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Getafe CF",
+      "players": [
+        {
+          "name": "Leo Román",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Lucas Bergström",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Iván Cuéllar",
+          "number": 25,
+          "position": "POR"
+        },
+        {
+          "name": "Marash Kumbulla",
+          "number": 4,
+          "position": "DFC"
+        },
+        {
+          "name": "Martin Valjent",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Antonio Raíllo",
+          "number": 21,
+          "position": "DFC"
+        },
+        {
+          "name": "David López",
+          "number": 27,
+          "position": "DFC"
+        },
+        {
+          "name": "Johan Mojica",
+          "number": 22,
+          "position": "LI"
+        },
+        {
+          "name": "Toni Lato",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Pablo Maffeo",
+          "number": 23,
+          "position": "LD"
+        },
+        {
+          "name": "Mateu Morey",
+          "number": 2,
+          "position": "LD"
+        },
+        {
+          "name": "Samú Costa",
+          "number": 12,
+          "position": "MCD"
+        },
+        {
+          "name": "Omar Mascarell",
+          "number": 5,
+          "position": "MCD"
+        },
+        {
+          "name": "Sergi Darder",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Antonio Sánchez",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Manu Morlanes",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Jan Salas",
+          "number": 41,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Torre",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Jan Virgili",
+          "number": 17,
+          "position": "EI"
+        },
+        {
+          "name": "Javi Llabrés",
+          "number": 19,
+          "position": "EI"
+        },
+        {
+          "name": "Takuma Asano",
+          "number": 11,
+          "position": "ED"
+        },
+        {
+          "name": "Justin Kalumba",
+          "number": 30,
+          "position": "ED"
+        },
+        {
+          "name": "Vedat Muriqi",
+          "number": 7,
+          "position": "DC"
+        },
+        {
+          "name": "Zito Luvumbo",
+          "number": 15,
+          "position": "DC"
+        },
+        {
+          "name": "Mateo Joseph",
+          "number": 18,
+          "position": "DC"
+        },
+        {
+          "name": "Abdón Prats",
+          "number": 9,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "RCD Mallorca",
+      "players": [
+        {
+          "name": "David Soria",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Jiri Letacek",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Abdel Abqar",
+          "number": 3,
+          "position": "DFC"
+        },
+        {
+          "name": "Sebastián Boselli",
+          "number": 15,
+          "position": "DFC"
+        },
+        {
+          "name": "Zaid Romero",
+          "number": 24,
+          "position": "DFC"
+        },
+        {
+          "name": "Dakonam Djené",
+          "number": 2,
+          "position": "DFC"
+        },
+        {
+          "name": "Domingos Duarte",
+          "number": 22,
+          "position": "DFC"
+        },
+        {
+          "name": "Diego Rico",
+          "number": 16,
+          "position": "LI"
+        },
+        {
+          "name": "Davinchi",
+          "number": 26,
+          "position": "LI"
+        },
+        {
+          "name": "Juan Iglesias",
+          "number": 21,
+          "position": "LD"
+        },
+        {
+          "name": "Kiko Femenía",
+          "number": 17,
+          "position": "LD"
+        },
+        {
+          "name": "Ismael Bekhoucha",
+          "number": 31,
+          "position": "LD"
+        },
+        {
+          "name": "Allan Nyom",
+          "number": 12,
+          "position": "LD"
+        },
+        {
+          "name": "Mario Martín",
+          "number": 6,
+          "position": "MCD"
+        },
+        {
+          "name": "Mauro Arambarri",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Luis Milla",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Javi Muñoz",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Adrián Liso",
+          "number": 23,
+          "position": "EI"
+        },
+        {
+          "name": "Veljko Birmancevic",
+          "number": 20,
+          "position": "EI"
+        },
+        {
+          "name": "Juanmi",
+          "number": 7,
+          "position": "EI"
+        },
+        {
+          "name": "Abu Kamara",
+          "number": 11,
+          "position": "ED"
+        },
+        {
+          "name": "Álex Sancris",
+          "number": 18,
+          "position": "ED"
+        },
+        {
+          "name": "Borja Mayoral",
+          "number": 9,
+          "position": "DC"
+        },
+        {
+          "name": "Martín Satriano",
+          "number": 10,
+          "position": "DC"
+        },
+        {
+          "name": "Luis Vázquez",
+          "number": 19,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Real Oviedo",
+      "players": [
+        {
+          "name": "Horațiu Moldovan",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Aarón Escandell",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "David Carmo",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Eric Bailly",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "David Costas",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Dani Calvo",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Javi López",
+          "number": 25,
+          "position": "MC"
+        },
+        {
+          "name": "Rahim Alhassane",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Nacho Vidal",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Lucas Ahijado",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Leander Dendoncker",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Santiago Colombatto",
+          "number": 11,
+          "position": "MC"
+        },
+        {
+          "name": "Nicolás Fonseca",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Alberto Reina",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Kwasi Sibo",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Santi Cazorla",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Luka Ilic",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Agudín",
+          "number": 27,
+          "position": "MC"
+        },
+        {
+          "name": "Thiago Fernández",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Ilyas Chaira",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Ovie Ejaria",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Haissem Hassan",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Federico Viñas",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Thiago Borbas",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Álex Forés",
+          "number": 19,
+          "position": "MC"
+        }
+      ]
+    },
+    {
+      "name": "Deportivo Alavés",
+      "players": [
+        {
+          "name": "Antonio Sivera",
+          "number": 1,
+          "position": "POR"
+        },
+        {
+          "name": "Raúl Fernández",
+          "number": 13,
+          "position": "POR"
+        },
+        {
+          "name": "Jon Pacheco",
+          "number": 5,
+          "position": "DFC"
+        },
+        {
+          "name": "Ville Koski",
+          "number": 16,
+          "position": "DFC"
+        },
+        {
+          "name": "Facundo Garcés",
+          "number": 2,
+          "position": "DFC"
+        },
+        {
+          "name": "Youssef Enríquez",
+          "number": 3,
+          "position": "LI"
+        },
+        {
+          "name": "Victor Parada",
+          "number": 24,
+          "position": "LI"
+        },
+        {
+          "name": "Nahuel Tenaglia",
+          "number": 14,
+          "position": "LD"
+        },
+        {
+          "name": "Jonny Otto",
+          "number": 17,
+          "position": "LD"
+        },
+        {
+          "name": "Antonio Blanco",
+          "number": 8,
+          "position": "MCD"
+        },
+        {
+          "name": "Carlos Protesoni",
+          "number": 23,
+          "position": "MCD"
+        },
+        {
+          "name": "Ander Guevara",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Carles Aleñá",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Ibáñez",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Jon Guridi",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Calebe",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Denis Suárez",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Abde Rebbach",
+          "number": 21,
+          "position": "EI"
+        },
+        {
+          "name": "Ángel Pérez",
+          "number": 7,
+          "position": "ED"
+        },
+        {
+          "name": "Lucas Boyé",
+          "number": 15,
+          "position": "DC"
+        },
+        {
+          "name": "Toni Martínez",
+          "number": 11,
+          "position": "DC"
+        },
+        {
+          "name": "Ibrahim Diabate",
+          "number": 22,
+          "position": "DC"
+        },
+        {
+          "name": "Mariano Díaz",
+          "number": 9,
+          "position": "DC"
+        },
+        {
+          "name": "Aitor Mañas",
+          "number": 34,
+          "position": "DC"
+        }
+      ]
+    },
+    {
+      "name": "Real Betis",
+      "players": [
+        {
+          "name": "Álvaro Valles",
+          "number": 1,
+          "position": "MC"
+        },
+        {
+          "name": "Pau López",
+          "number": 25,
+          "position": "MC"
+        },
+        {
+          "name": "Adrián",
+          "number": 13,
+          "position": "MC"
+        },
+        {
+          "name": "Natan",
+          "number": 4,
+          "position": "MC"
+        },
+        {
+          "name": "Valentín Gómez",
+          "number": 16,
+          "position": "MC"
+        },
+        {
+          "name": "Diego Llorente",
+          "number": 3,
+          "position": "MC"
+        },
+        {
+          "name": "Marc Bartra",
+          "number": 5,
+          "position": "MC"
+        },
+        {
+          "name": "Junior Firpo",
+          "number": 23,
+          "position": "MC"
+        },
+        {
+          "name": "Ricardo Rodríguez",
+          "number": 12,
+          "position": "MC"
+        },
+        {
+          "name": "Ángel Ortiz",
+          "number": 40,
+          "position": "MC"
+        },
+        {
+          "name": "Héctor Bellerín",
+          "number": 2,
+          "position": "MC"
+        },
+        {
+          "name": "Sofyan Amrabat",
+          "number": 14,
+          "position": "MC"
+        },
+        {
+          "name": "Marc Roca",
+          "number": 21,
+          "position": "MC"
+        },
+        {
+          "name": "Sergi Altimira",
+          "number": 6,
+          "position": "MC"
+        },
+        {
+          "name": "Nelson Deossa",
+          "number": 18,
+          "position": "MC"
+        },
+        {
+          "name": "Álvaro Fidalgo",
+          "number": 15,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo Fornals",
+          "number": 8,
+          "position": "MC"
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "number": 20,
+          "position": "MC"
+        },
+        {
+          "name": "Isco",
+          "number": 22,
+          "position": "MC"
+        },
+        {
+          "name": "Abde Ezzalzouli",
+          "number": 10,
+          "position": "MC"
+        },
+        {
+          "name": "Rodrigo Riquelme",
+          "number": 17,
+          "position": "MC"
+        },
+        {
+          "name": "Antony",
+          "number": 7,
+          "position": "MC"
+        },
+        {
+          "name": "Pablo García",
+          "number": 52,
+          "position": "MC"
+        },
+        {
+          "name": "Aitor Ruibal",
+          "number": 24,
+          "position": "MC"
+        },
+        {
+          "name": "Cucho Hernández",
+          "number": 19,
+          "position": "MC"
+        },
+        {
+          "name": "Chimy Ávila",
+          "number": 9,
+          "position": "MC"
+        },
+        {
+          "name": "Cédric Bakambu",
+          "number": 11,
+          "position": "MC"
+        }
+      ]
+    }
+  ]
+}
