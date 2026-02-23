@@ -8,17 +8,17 @@
       "channel": "stable",
       "updatedAt": "2026-02-23",
       "approxSizeKb": 0,
-"downloadUrl": "https://raw.githubusercontent.com/futbolsecrets-hub/futbolsecrets-packs/main/laliga_2025-26.pack.json"
+      "downloadUrl": "https://raw.githubusercontent.com/futbolsecrets-hub/futbolsecrets-packs/main/laliga_2025-26.pack.json"
+    },
+    {
+      "packId": "ucl-2025-26",
+      "name": "UEFA Champions League 2025-26",
+      "season": "2025-26",
+      "versionStr": "1.0.0",
+      "channel": "stable",
+      "updatedAt": "2026-02-23",
+      "approxSizeKb": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/futbolsecrets-hub/futbolsecrets-packs/main/champions_2025-26.pack.json"
     }
   ]
-}
-{
-  "packId": "ucl-2025-26",
-  "name": "UEFA Champions League 2025-26",
-  "season": "2025-26",
-  "versionStr": "1.0.0",
-  "channel": "stable",
-  "updatedAt": "2026-02-23",
-  "approxSizeKb": 0,
-  "downloadUrl": "https://raw.githubusercontent.com/futbolsecrets-hub/futbolsecrets-packs/main/champions_2025-26.pack.json"
 }
