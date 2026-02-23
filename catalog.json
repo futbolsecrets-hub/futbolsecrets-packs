@@ -1,0 +1,14 @@
+{
+  "packs": [
+    {
+      "packId": "laliga-2025-26",
+      "name": "LaLiga 2025-26",
+      "season": "2025-26",
+      "versionStr": "1.0.0",
+      "channel": "stable",
+      "updatedAt": "2026-02-23",
+      "approxSizeKb": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/futbolsecrets-hub/futbolsecrets-packs/main/laliga_2025_26.json"
+    }
+  ]
+}
